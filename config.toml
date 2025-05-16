@@ -1,0 +1,17 @@
+[database]
+path = "./finance.db"
+
+[category_limits_huf]
+rent = 1700000
+overhead = 50000
+groceries = 70000
+health = 25000
+sport = 30000
+household = 15000
+car = 40000
+clothes = 20000
+restaurant = 50000
+courses = 5000
+travel = 45000
+pension = 50000
+rest = 30000
