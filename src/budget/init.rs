@@ -59,7 +59,6 @@ pub fn init_budget(category_limits_huf: crate::read_config::CategoryLimitsHuf) -
                     ?11,
                     ?12,
                     ?13
-                    ?14 
                 )",
             [
                 &category_limits_huf.rent,
